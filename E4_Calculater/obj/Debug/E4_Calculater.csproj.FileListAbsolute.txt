@@ -1,0 +1,6 @@
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\bin\Debug\E4_Calculater.exe.config
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\bin\Debug\E4_Calculater.exe
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\bin\Debug\E4_Calculater.pdb
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\obj\Debug\E4_Calculater.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\obj\Debug\E4_Calculater.exe
+e:\documents\visual studio 2017\Projects\E4_Calculater\E4_Calculater\obj\Debug\E4_Calculater.pdb
